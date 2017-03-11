@@ -1,8 +1,23 @@
-## Welcome to GitHub Pages
+## 欢迎同学们访问李老师的游戏开发站点
 
-You can use the [editor on GitHub](https://github.com/rapvwv/rapvwv.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+在这里，可以学习到最新的游戏开发知识
+本学习我们主要是学习Unity建立简单的游戏场景
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+目录如下
+单元1  	游戏引擎简介
+单元2  	Unity编辑器的使用
+单元3  	资源导入流程
+单元4  	创建基本游戏场景
+单元5  	环境虚拟
+单元6  	粒子特效的应用
+单元7  	玩家角色
+单元8  	光照贴图技术
+单元9  	导航网格寻路
+单元10  	Unity编程应用
+单元11  GUI界面
+单元12  跨平台发布
+单元13  经典案例分析
+
 
 ### Markdown
 
